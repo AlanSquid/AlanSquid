@@ -4,13 +4,13 @@ I'm a software engineer with 2 years of experience specializing in backend and f
 
 ### 👨‍💻 What I Do
 - **Backend Development:** Crafting efficient and secure APIs using Node.js and Express.
-- **Full-Stack Development:** Bringing ideas to life by working across the stack.
+- **Full-Stack Development:** Creating cohesive applications by managing everything from the server to the user interface.
 - **Database Management:** 
   - **Relational Databases:** MySQL for structured data and complex queries.
   - **Non-Relational Databases:** MongoDB for flexible, document-oriented storage.
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript
+### 🛠️ Proficient Tech Stack
+- **Languages:** JavaScript、Python
 - **Backend Frameworks:** Node.js, Express
 - **Databases:** MySQL, MongoDB
 
