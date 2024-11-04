@@ -11,7 +11,10 @@ I'm a software engineer with 2 years of experience specializing in backend and f
 
 ### 🛠️ Proficient Tech Stack
 - **Languages:** JavaScript、Python
-- **Backend Frameworks:** Node.js, Express
+- **Backend Frameworks:**
+  - Node.js: Express.js, Next.js
+  - Python: Django
+  **Frontend Frameworks:** React.js
 - **Databases:** MySQL, MongoDB
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or opportunities for collaboration!
